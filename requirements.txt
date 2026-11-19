@@ -1,2 +1,2 @@
-pycryptodome==4.4.0
+pycryptodome==4.5.0
 phpserialize==1.3
